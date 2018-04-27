@@ -13,7 +13,7 @@ Dataset provided by SFARI Gene (https://gene.sfari.org/autdb/Welcome.do )
 
 Sample file --- “gene-id-table.txt”
 
-### Building an Autism Interactome
+###  Building an Autism Interactome
 
 The source script used in it is named as “steiner_tree.R”
 
