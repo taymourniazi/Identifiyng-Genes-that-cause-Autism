@@ -7,7 +7,7 @@
 BioGRID dataset can be found here (http://thebiogrid.org)
 
 
-### Genes Causing Autism
+###  Genes Causing Autism
 
 Dataset provided by SFARI Gene (https://gene.sfari.org/autdb/Welcome.do )
 
