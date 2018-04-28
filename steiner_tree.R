@@ -2,7 +2,7 @@
 # containing the indices of the seed nodes. Note that the vertex labels of the graph 
 # are assumed to be labeled from 1 up to m and the igraph object needs to be 
 # a connected graph.
-########################################################################################
+#######################################################################################
 
 steiner_tree <- function(terminals, graph){
 	A = shortest.paths(graph, terminals, terminals)
