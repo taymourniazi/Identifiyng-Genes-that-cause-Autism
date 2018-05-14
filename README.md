@@ -1,3 +1,4 @@
+![capture](https://user-images.githubusercontent.com/30389323/39997074-08b531a2-579b-11e8-8061-f3b665e673a1.PNG)
 # Identifiyng-Genes-that-cause-Autism
 ## Discovering Genes that cause Autism using Network Theory
 
@@ -26,4 +27,4 @@ Interactomes
 
 Identifying New Candidate Genes that could cus Autism with using betweenness centrality measure
 
-![capture](https://user-images.githubusercontent.com/30389323/39997074-08b531a2-579b-11e8-8061-f3b665e673a1.PNG)
+
